@@ -34,3 +34,6 @@
 [2014-01-17 15:26] feat(rust_shuffle): implement RocksDB incremental checkpointing [Sprint 2014.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-01-20 17:43] test(state_backend): optimize backpressure credit flow control [Sprint 2014.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
