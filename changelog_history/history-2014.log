@@ -49,3 +49,6 @@
 [2014-02-02 22:49] docs(sliding_window): calibrate cluster heartbeat gossip protocol [Sprint 2014.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-02-05 02:21] perf(stream_operator): implement RocksDB incremental checkpointing [Sprint 2014.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
