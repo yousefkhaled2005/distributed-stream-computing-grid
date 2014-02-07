@@ -52,3 +52,6 @@
 [2014-02-05 02:21] perf(stream_operator): implement RocksDB incremental checkpointing [Sprint 2014.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-02-07 04:40] feat(raft): tune zero-copy shuffle partitioner [Sprint 2014.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
