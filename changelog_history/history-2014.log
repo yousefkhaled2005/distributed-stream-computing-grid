@@ -61,3 +61,6 @@
 [2014-02-13 08:30] perf(chandy_lamport): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-02-17 11:36] refactor(chandy_lamport): tune zero-copy shuffle partitioner [Sprint 2014.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
