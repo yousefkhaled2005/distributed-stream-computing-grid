@@ -79,3 +79,6 @@
 [2014-03-03 22:37] perf(scala_dag): calibrate cluster heartbeat gossip protocol [Sprint 2014.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-03-06 23:17] refactor(stream_operator): implement Raft election timeout randomization [Sprint 2014.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
