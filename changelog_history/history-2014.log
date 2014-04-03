@@ -106,3 +106,6 @@
 [2014-04-01 10:48] docs(raft): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-04-03 13:57] fix(tokio_mesh): enhance event-time watermark alignment [Sprint 2014.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
