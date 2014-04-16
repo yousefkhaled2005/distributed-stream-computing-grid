@@ -118,3 +118,6 @@
 [2014-04-12 16:07] perf(state_backend): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-04-16 15:39] feat(raft): reduce state recovery duration after node crash [Sprint 2014.W16]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
