@@ -151,3 +151,6 @@
 [2014-05-17 03:55] docs(scala_dag): implement RocksDB incremental checkpointing [Sprint 2014.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-05-19 02:01] fix(rust_shuffle): tune zero-copy shuffle partitioner [Sprint 2014.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
