@@ -154,3 +154,6 @@
 [2014-05-19 02:01] fix(rust_shuffle): tune zero-copy shuffle partitioner [Sprint 2014.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-05-22 05:27] perf(chandy_lamport): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
