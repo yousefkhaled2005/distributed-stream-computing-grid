@@ -6,3 +6,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-stream-computing-grid
 
+[2014-05-22 14:19] feat(chandy_lamport): optimize Level-3 limit order book matching in release cycle 2014.Q2
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-stream-computing-grid
+
