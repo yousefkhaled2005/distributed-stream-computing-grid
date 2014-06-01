@@ -166,3 +166,6 @@
 [2014-05-29 08:39] refactor(chandy_lamport): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-06-01 11:55] docs(rust_shuffle): calibrate cluster heartbeat gossip protocol [Sprint 2014.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
