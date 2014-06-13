@@ -178,3 +178,6 @@
 [2014-06-09 10:47] feat(tokio_mesh): calibrate cluster heartbeat gossip protocol [Sprint 2014.W24]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-06-13 14:36] feat(raft): calibrate cluster heartbeat gossip protocol [Sprint 2014.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
