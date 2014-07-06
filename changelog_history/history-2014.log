@@ -199,3 +199,6 @@
 [2014-07-04 20:09] refactor(raft): implement RocksDB incremental checkpointing [Sprint 2014.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-07-06 21:14] refactor(state_backend): enhance event-time watermark alignment [Sprint 2014.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
