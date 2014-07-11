@@ -205,3 +205,6 @@
 [2014-07-08 20:52] docs(chandy_lamport): calibrate cluster heartbeat gossip protocol [Sprint 2014.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-07-11 18:54] feat(raft): reduce state recovery duration after node crash [Sprint 2014.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
