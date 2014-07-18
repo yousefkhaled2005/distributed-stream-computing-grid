@@ -214,3 +214,6 @@
 [2014-07-16 20:25] feat(tokio_mesh): implement Raft election timeout randomization [Sprint 2014.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-07-18 20:01] feat(state_backend): implement RocksDB incremental checkpointing [Sprint 2014.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
