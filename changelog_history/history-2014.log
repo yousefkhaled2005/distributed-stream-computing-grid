@@ -220,3 +220,6 @@
 [2014-07-21 21:19] test(tokio_mesh): tune zero-copy shuffle partitioner [Sprint 2014.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-07-23 21:09] test(state_backend): enhance event-time watermark alignment [Sprint 2014.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
