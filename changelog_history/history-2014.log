@@ -229,3 +229,6 @@
 [2014-07-28 22:02] feat(stream_operator): reduce state recovery duration after node crash [Sprint 2014.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-07-31 00:10] perf(rust_shuffle): tune zero-copy shuffle partitioner [Sprint 2014.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
