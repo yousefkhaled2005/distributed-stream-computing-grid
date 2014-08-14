@@ -247,3 +247,6 @@
 [2014-08-11 23:07] refactor(state_backend): calibrate cluster heartbeat gossip protocol [Sprint 2014.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-08-15 01:38] docs(sliding_window): implement Raft election timeout randomization [Sprint 2014.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
