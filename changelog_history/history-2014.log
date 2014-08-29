@@ -262,3 +262,6 @@
 [2014-08-26 13:11] docs(scala_dag): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-08-29 15:26] refactor(scala_dag): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
