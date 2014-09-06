@@ -271,3 +271,6 @@
 [2014-09-02 16:15] refactor(sliding_window): implement Raft election timeout randomization [Sprint 2014.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-09-06 18:59] feat(rust_shuffle): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
