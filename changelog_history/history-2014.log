@@ -289,3 +289,6 @@
 [2014-09-17 02:47] fix(sliding_window): calibrate cluster heartbeat gossip protocol [Sprint 2014.W38]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-09-19 03:49] feat(state_backend): enhance event-time watermark alignment [Sprint 2014.W38]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
