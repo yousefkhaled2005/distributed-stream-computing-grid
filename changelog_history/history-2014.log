@@ -298,3 +298,6 @@
 [2014-09-25 05:03] feat(sliding_window): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-09-27 08:26] feat(tokio_mesh): enhance event-time watermark alignment [Sprint 2014.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
