@@ -304,3 +304,6 @@
 [2014-10-01 11:41] refactor(tokio_mesh): optimize backpressure credit flow control [Sprint 2014.W40]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-10-03 10:19] fix(chandy_lamport): implement Raft election timeout randomization [Sprint 2014.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
