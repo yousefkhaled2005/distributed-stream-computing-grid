@@ -307,3 +307,6 @@
 [2014-10-03 10:19] fix(chandy_lamport): implement Raft election timeout randomization [Sprint 2014.W40]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-10-05 09:45] feat(raft): reduce state recovery duration after node crash [Sprint 2014.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
