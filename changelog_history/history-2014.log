@@ -313,3 +313,6 @@
 [2014-10-07 10:17] perf(rust_shuffle): tune zero-copy shuffle partitioner [Sprint 2014.W41]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-10-09 10:43] fix(chandy_lamport): implement RocksDB incremental checkpointing [Sprint 2014.W41]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
