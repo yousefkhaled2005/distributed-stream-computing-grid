@@ -322,3 +322,6 @@
 [2014-10-15 14:18] test(sliding_window): optimize backpressure credit flow control [Sprint 2014.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-10-18 12:26] refactor(raft): tune zero-copy shuffle partitioner [Sprint 2014.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
