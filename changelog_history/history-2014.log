@@ -328,3 +328,6 @@
 [2014-10-22 15:48] fix(raft): calibrate cluster heartbeat gossip protocol [Sprint 2014.W43]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-10-26 18:10] perf(raft): implement RocksDB incremental checkpointing [Sprint 2014.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
