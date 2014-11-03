@@ -337,3 +337,6 @@
 [2014-10-31 18:44] feat(sliding_window): implement RocksDB incremental checkpointing [Sprint 2014.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-11-03 18:33] refactor(rust_shuffle): implement RocksDB incremental checkpointing [Sprint 2014.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
