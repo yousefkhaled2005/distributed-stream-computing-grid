@@ -346,3 +346,6 @@
 [2014-11-09 00:32] test(stream_operator): enhance event-time watermark alignment [Sprint 2014.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-11-11 00:44] fix(scala_dag): tune zero-copy shuffle partitioner [Sprint 2014.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
