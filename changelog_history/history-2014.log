@@ -349,3 +349,6 @@
 [2014-11-11 00:44] fix(scala_dag): tune zero-copy shuffle partitioner [Sprint 2014.W46]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-11-13 22:51] feat(tokio_mesh): implement Raft election timeout randomization [Sprint 2014.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
