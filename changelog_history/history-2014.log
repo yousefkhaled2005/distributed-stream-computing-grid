@@ -355,3 +355,6 @@
 [2014-11-18 02:23] refactor(state_backend): enhance event-time watermark alignment [Sprint 2014.W47]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-11-22 00:50] refactor(scala_dag): optimize backpressure credit flow control [Sprint 2014.W47]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
