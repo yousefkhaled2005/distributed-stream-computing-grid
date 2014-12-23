@@ -388,3 +388,6 @@
 [2014-12-21 06:26] refactor(state_backend): calibrate cluster heartbeat gossip protocol [Sprint 2014.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-12-23 08:13] feat(tokio_mesh): calibrate cluster heartbeat gossip protocol [Sprint 2014.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
