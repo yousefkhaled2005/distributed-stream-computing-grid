@@ -391,3 +391,6 @@
 [2014-12-23 08:13] feat(tokio_mesh): calibrate cluster heartbeat gossip protocol [Sprint 2014.W52]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2014-12-26 11:01] refactor(rust_shuffle): introduce Chandy-Lamport snapshot barrier [Sprint 2014.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
