@@ -25,3 +25,6 @@
 [2015-01-07 09:18] feat(raft): optimize backpressure credit flow control [Sprint 2015.W2]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-01-11 09:24] perf(state_backend): implement Raft election timeout randomization [Sprint 2015.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
