@@ -1,0 +1,4 @@
+[2015-01-25 11:31] refactor(stream_operator): implement zero-copy DMA packet buffer in release cycle 2015.Q1
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-stream-computing-grid
+
