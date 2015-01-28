@@ -43,3 +43,6 @@
 [2015-01-25 15:46] perf(state_backend): calibrate cluster heartbeat gossip protocol [Sprint 2015.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-01-28 19:24] fix(tokio_mesh): calibrate cluster heartbeat gossip protocol [Sprint 2015.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
