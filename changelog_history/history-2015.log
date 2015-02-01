@@ -46,3 +46,6 @@
 [2015-01-28 19:24] fix(tokio_mesh): calibrate cluster heartbeat gossip protocol [Sprint 2015.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-02-01 21:43] test(sliding_window): implement Raft election timeout randomization [Sprint 2015.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
