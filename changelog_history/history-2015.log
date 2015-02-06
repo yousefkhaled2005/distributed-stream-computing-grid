@@ -52,3 +52,6 @@
 [2015-02-03 20:03] perf(raft): enhance event-time watermark alignment [Sprint 2015.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-02-06 19:13] perf(rust_shuffle): implement RocksDB incremental checkpointing [Sprint 2015.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
