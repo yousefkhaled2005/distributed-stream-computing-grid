@@ -55,3 +55,6 @@
 [2015-02-06 19:13] perf(rust_shuffle): implement RocksDB incremental checkpointing [Sprint 2015.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-02-10 17:18] perf(stream_operator): implement Raft election timeout randomization [Sprint 2015.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
