@@ -61,3 +61,6 @@
 [2015-02-13 19:33] test(raft): tune zero-copy shuffle partitioner [Sprint 2015.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-02-17 22:36] refactor(sliding_window): implement Raft election timeout randomization [Sprint 2015.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
