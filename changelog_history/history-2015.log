@@ -70,3 +70,6 @@
 [2015-02-23 22:31] docs(sliding_window): enhance event-time watermark alignment [Sprint 2015.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-02-26 22:17] perf(stream_operator): introduce Chandy-Lamport snapshot barrier [Sprint 2015.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
