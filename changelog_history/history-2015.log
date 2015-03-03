@@ -76,3 +76,6 @@
 [2015-03-01 21:49] perf(tokio_mesh): implement RocksDB incremental checkpointing [Sprint 2015.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-03-03 23:59] feat(chandy_lamport): implement RocksDB incremental checkpointing [Sprint 2015.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
