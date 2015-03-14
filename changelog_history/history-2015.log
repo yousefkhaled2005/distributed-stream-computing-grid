@@ -85,3 +85,6 @@
 [2015-03-09 23:51] feat(sliding_window): reduce state recovery duration after node crash [Sprint 2015.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-03-14 02:23] refactor(raft): calibrate cluster heartbeat gossip protocol [Sprint 2015.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
