@@ -112,3 +112,6 @@
 [2015-04-07 10:12] refactor(rust_shuffle): optimize backpressure credit flow control [Sprint 2015.W15]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-04-09 10:29] test(state_backend): implement RocksDB incremental checkpointing [Sprint 2015.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
