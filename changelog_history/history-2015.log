@@ -130,3 +130,6 @@
 [2015-04-24 11:30] feat(stream_operator): introduce Chandy-Lamport snapshot barrier [Sprint 2015.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-04-28 11:46] feat(rust_shuffle): enhance event-time watermark alignment [Sprint 2015.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
