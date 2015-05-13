@@ -145,3 +145,6 @@
 [2015-05-10 15:08] refactor(raft): calibrate cluster heartbeat gossip protocol [Sprint 2015.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-05-13 16:44] refactor(scala_dag): enhance event-time watermark alignment [Sprint 2015.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
