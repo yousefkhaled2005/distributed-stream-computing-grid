@@ -157,3 +157,6 @@
 [2015-05-20 21:43] test(scala_dag): implement Raft election timeout randomization [Sprint 2015.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-05-24 01:30] test(sliding_window): implement Raft election timeout randomization [Sprint 2015.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
