@@ -175,3 +175,6 @@
 [2015-06-05 05:58] perf(stream_operator): enhance event-time watermark alignment [Sprint 2015.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-06-09 05:20] perf(tokio_mesh): enhance event-time watermark alignment [Sprint 2015.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
