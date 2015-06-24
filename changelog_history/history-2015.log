@@ -190,3 +190,6 @@
 [2015-06-20 06:29] test(chandy_lamport): introduce Chandy-Lamport snapshot barrier [Sprint 2015.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-06-24 10:04] refactor(raft): enhance event-time watermark alignment [Sprint 2015.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
