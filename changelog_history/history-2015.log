@@ -193,3 +193,6 @@
 [2015-06-24 10:04] refactor(raft): enhance event-time watermark alignment [Sprint 2015.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-06-27 10:52] feat(stream_operator): reduce state recovery duration after node crash [Sprint 2015.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
