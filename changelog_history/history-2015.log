@@ -220,3 +220,6 @@
 [2015-07-18 14:49] refactor(tokio_mesh): introduce Chandy-Lamport snapshot barrier [Sprint 2015.W29]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-07-22 15:11] fix(state_backend): introduce Chandy-Lamport snapshot barrier [Sprint 2015.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
