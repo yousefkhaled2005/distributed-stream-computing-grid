@@ -235,3 +235,6 @@
 [2015-08-03 17:40] refactor(state_backend): implement Raft election timeout randomization [Sprint 2015.W32]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-08-05 18:22] test(tokio_mesh): tune zero-copy shuffle partitioner [Sprint 2015.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
