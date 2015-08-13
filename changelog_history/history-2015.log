@@ -244,3 +244,6 @@
 [2015-08-11 16:21] feat(chandy_lamport): calibrate cluster heartbeat gossip protocol [Sprint 2015.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-08-13 19:58] docs(sliding_window): calibrate cluster heartbeat gossip protocol [Sprint 2015.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
