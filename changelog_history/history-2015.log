@@ -259,3 +259,6 @@
 [2015-08-25 21:23] fix(raft): reduce state recovery duration after node crash [Sprint 2015.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-08-28 23:51] test(state_backend): tune zero-copy shuffle partitioner [Sprint 2015.W35]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
