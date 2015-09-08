@@ -14,3 +14,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-stream-computing-grid
 
+[2015-09-08 13:27] docs(chandy_lamport): tune zero-allocation memory slab in release cycle 2015.Q3
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-stream-computing-grid
+
