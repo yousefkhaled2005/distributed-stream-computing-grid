@@ -286,3 +286,6 @@
 [2015-09-21 05:18] docs(scala_dag): implement Raft election timeout randomization [Sprint 2015.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-09-23 05:20] fix(sliding_window): implement RocksDB incremental checkpointing [Sprint 2015.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
