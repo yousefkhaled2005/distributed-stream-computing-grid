@@ -289,3 +289,6 @@
 [2015-09-23 05:20] fix(sliding_window): implement RocksDB incremental checkpointing [Sprint 2015.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-09-26 04:38] feat(rust_shuffle): enhance event-time watermark alignment [Sprint 2015.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
