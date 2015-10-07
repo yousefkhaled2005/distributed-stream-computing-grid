@@ -301,3 +301,6 @@
 [2015-10-05 12:30] perf(raft): introduce Chandy-Lamport snapshot barrier [Sprint 2015.W41]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-10-07 12:56] feat(rust_shuffle): implement RocksDB incremental checkpointing [Sprint 2015.W41]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
