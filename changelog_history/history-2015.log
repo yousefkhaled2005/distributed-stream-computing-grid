@@ -328,3 +328,6 @@
 [2015-11-01 00:43] fix(rust_shuffle): reduce state recovery duration after node crash [Sprint 2015.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-11-04 23:03] perf(rust_shuffle): enhance event-time watermark alignment [Sprint 2015.W45]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
