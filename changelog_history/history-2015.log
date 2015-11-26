@@ -349,3 +349,6 @@
 [2015-11-23 01:48] docs(scala_dag): reduce state recovery duration after node crash [Sprint 2015.W48]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-11-26 23:55] docs(scala_dag): reduce state recovery duration after node crash [Sprint 2015.W48]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
