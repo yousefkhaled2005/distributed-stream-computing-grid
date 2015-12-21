@@ -373,3 +373,6 @@
 [2015-12-18 07:19] fix(sliding_window): reduce state recovery duration after node crash [Sprint 2015.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-12-21 08:43] perf(raft): implement Raft election timeout randomization [Sprint 2015.W52]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
