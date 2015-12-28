@@ -379,3 +379,6 @@
 [2015-12-25 07:03] refactor(scala_dag): introduce Chandy-Lamport snapshot barrier [Sprint 2015.W52]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2015-12-28 10:23] test(stream_operator): tune zero-copy shuffle partitioner [Sprint 2015.W53]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
