@@ -25,3 +25,6 @@
 [2016-01-08 12:37] docs(raft): calibrate cluster heartbeat gossip protocol [Sprint 2016.W1]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-01-10 15:55] perf(rust_shuffle): implement Raft election timeout randomization [Sprint 2016.W1]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
