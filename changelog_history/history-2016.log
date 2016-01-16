@@ -31,3 +31,6 @@
 [2016-01-13 17:34] feat(stream_operator): reduce state recovery duration after node crash [Sprint 2016.W2]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-01-16 19:08] test(raft): tune zero-copy shuffle partitioner [Sprint 2016.W2]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
