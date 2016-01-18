@@ -1,0 +1,4 @@
+[2016-01-18 12:36] refactor(stream_operator): implement Raft election timeout randomization in release cycle 2016.Q1
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-stream-computing-grid
+
