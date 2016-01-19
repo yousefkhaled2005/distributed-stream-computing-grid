@@ -34,3 +34,6 @@
 [2016-01-16 19:08] test(raft): tune zero-copy shuffle partitioner [Sprint 2016.W2]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-01-19 18:47] fix(raft): calibrate cluster heartbeat gossip protocol [Sprint 2016.W3]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
