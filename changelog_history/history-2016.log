@@ -55,3 +55,6 @@
 [2016-02-07 01:20] docs(state_backend): enhance event-time watermark alignment [Sprint 2016.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-02-11 00:44] refactor(tokio_mesh): reduce state recovery duration after node crash [Sprint 2016.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
