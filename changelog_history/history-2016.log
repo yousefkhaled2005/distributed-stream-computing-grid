@@ -64,3 +64,6 @@
 [2016-02-16 01:02] feat(raft): optimize backpressure credit flow control [Sprint 2016.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-02-19 03:47] fix(sliding_window): optimize backpressure credit flow control [Sprint 2016.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
