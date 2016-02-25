@@ -70,3 +70,6 @@
 [2016-02-22 05:37] fix(sliding_window): optimize backpressure credit flow control [Sprint 2016.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-02-25 05:14] perf(rust_shuffle): implement RocksDB incremental checkpointing [Sprint 2016.W8]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
