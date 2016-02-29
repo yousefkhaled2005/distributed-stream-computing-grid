@@ -73,3 +73,6 @@
 [2016-02-25 05:14] perf(rust_shuffle): implement RocksDB incremental checkpointing [Sprint 2016.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-02-29 06:53] refactor(raft): calibrate cluster heartbeat gossip protocol [Sprint 2016.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
