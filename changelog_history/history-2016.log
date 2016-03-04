@@ -76,3 +76,6 @@
 [2016-02-29 06:53] refactor(raft): calibrate cluster heartbeat gossip protocol [Sprint 2016.W9]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-03-04 09:20] docs(rust_shuffle): tune zero-copy shuffle partitioner [Sprint 2016.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
