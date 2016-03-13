@@ -85,3 +85,6 @@
 [2016-03-10 11:37] feat(scala_dag): tune zero-copy shuffle partitioner [Sprint 2016.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-03-13 11:06] feat(chandy_lamport): enhance event-time watermark alignment [Sprint 2016.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
