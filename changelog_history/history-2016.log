@@ -88,3 +88,6 @@
 [2016-03-13 11:06] feat(chandy_lamport): enhance event-time watermark alignment [Sprint 2016.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-03-16 13:40] refactor(tokio_mesh): enhance event-time watermark alignment [Sprint 2016.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
