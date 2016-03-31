@@ -103,3 +103,6 @@
 [2016-03-29 18:51] docs(stream_operator): reduce state recovery duration after node crash [Sprint 2016.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-03-31 22:39] refactor(state_backend): implement RocksDB incremental checkpointing [Sprint 2016.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
