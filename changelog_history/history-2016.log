@@ -106,3 +106,6 @@
 [2016-03-31 22:39] refactor(state_backend): implement RocksDB incremental checkpointing [Sprint 2016.W13]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-04-04 22:48] fix(state_backend): optimize backpressure credit flow control [Sprint 2016.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
