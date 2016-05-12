@@ -142,3 +142,6 @@
 [2016-05-09 05:35] docs(rust_shuffle): tune zero-copy shuffle partitioner [Sprint 2016.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-05-12 06:55] refactor(raft): enhance event-time watermark alignment [Sprint 2016.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
