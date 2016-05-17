@@ -148,3 +148,6 @@
 [2016-05-14 08:57] feat(stream_operator): calibrate cluster heartbeat gossip protocol [Sprint 2016.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-05-17 07:13] docs(tokio_mesh): tune zero-copy shuffle partitioner [Sprint 2016.W20]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
