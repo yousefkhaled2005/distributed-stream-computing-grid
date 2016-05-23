@@ -154,3 +154,6 @@
 [2016-05-20 05:40] fix(rust_shuffle): implement RocksDB incremental checkpointing [Sprint 2016.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-05-23 08:13] perf(state_backend): implement RocksDB incremental checkpointing [Sprint 2016.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
