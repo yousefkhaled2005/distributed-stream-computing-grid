@@ -160,3 +160,6 @@
 [2016-05-25 06:32] perf(tokio_mesh): calibrate cluster heartbeat gossip protocol [Sprint 2016.W21]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-05-29 06:13] refactor(sliding_window): optimize backpressure credit flow control [Sprint 2016.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
