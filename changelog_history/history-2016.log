@@ -166,3 +166,6 @@
 [2016-05-31 07:03] fix(tokio_mesh): reduce state recovery duration after node crash [Sprint 2016.W22]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-06-03 08:49] fix(stream_operator): reduce state recovery duration after node crash [Sprint 2016.W22]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
