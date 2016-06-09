@@ -175,3 +175,6 @@
 [2016-06-07 10:18] refactor(sliding_window): tune zero-copy shuffle partitioner [Sprint 2016.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-06-09 13:20] fix(scala_dag): introduce Chandy-Lamport snapshot barrier [Sprint 2016.W23]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
