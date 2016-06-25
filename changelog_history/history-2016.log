@@ -193,3 +193,6 @@
 [2016-06-23 14:05] refactor(chandy_lamport): tune zero-copy shuffle partitioner [Sprint 2016.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-06-25 13:46] feat(scala_dag): optimize backpressure credit flow control [Sprint 2016.W25]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
