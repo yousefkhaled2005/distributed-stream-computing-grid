@@ -208,3 +208,6 @@
 [2016-07-06 16:56] fix(stream_operator): optimize backpressure credit flow control [Sprint 2016.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-07-08 15:30] fix(chandy_lamport): introduce Chandy-Lamport snapshot barrier [Sprint 2016.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
