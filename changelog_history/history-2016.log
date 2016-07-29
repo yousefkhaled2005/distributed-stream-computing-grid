@@ -229,3 +229,6 @@
 [2016-07-26 19:09] fix(raft): tune zero-copy shuffle partitioner [Sprint 2016.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-07-29 18:29] docs(chandy_lamport): optimize backpressure credit flow control [Sprint 2016.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
