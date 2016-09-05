@@ -268,3 +268,6 @@
 [2016-09-02 06:23] fix(state_backend): implement Raft election timeout randomization [Sprint 2016.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-09-05 08:07] feat(state_backend): introduce Chandy-Lamport snapshot barrier [Sprint 2016.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
