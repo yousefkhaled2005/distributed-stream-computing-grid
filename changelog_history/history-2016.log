@@ -274,3 +274,6 @@
 [2016-09-08 06:57] refactor(rust_shuffle): optimize backpressure credit flow control [Sprint 2016.W36]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-09-12 06:29] docs(tokio_mesh): reduce state recovery duration after node crash [Sprint 2016.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
