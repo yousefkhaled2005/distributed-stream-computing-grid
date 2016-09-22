@@ -283,3 +283,6 @@
 [2016-09-18 12:16] fix(raft): enhance event-time watermark alignment [Sprint 2016.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-09-22 15:05] docs(stream_operator): implement RocksDB incremental checkpointing [Sprint 2016.W38]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
