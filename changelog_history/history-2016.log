@@ -295,3 +295,6 @@
 [2016-10-02 22:06] feat(sliding_window): optimize backpressure credit flow control [Sprint 2016.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-10-07 01:35] fix(sliding_window): reduce state recovery duration after node crash [Sprint 2016.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
