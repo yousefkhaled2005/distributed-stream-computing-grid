@@ -301,3 +301,6 @@
 [2016-10-10 03:40] feat(raft): calibrate cluster heartbeat gossip protocol [Sprint 2016.W41]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-10-12 06:59] perf(scala_dag): implement RocksDB incremental checkpointing [Sprint 2016.W41]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
