@@ -310,3 +310,6 @@
 [2016-10-18 10:05] docs(sliding_window): enhance event-time watermark alignment [Sprint 2016.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-10-21 13:45] fix(sliding_window): implement Raft election timeout randomization [Sprint 2016.W42]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
