@@ -319,3 +319,6 @@
 [2016-10-27 17:21] feat(tokio_mesh): implement Raft election timeout randomization [Sprint 2016.W43]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-10-30 17:03] feat(rust_shuffle): reduce state recovery duration after node crash [Sprint 2016.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
