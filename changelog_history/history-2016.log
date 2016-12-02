@@ -352,3 +352,6 @@
 [2016-11-28 20:29] perf(stream_operator): enhance event-time watermark alignment [Sprint 2016.W48]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-12-02 23:15] feat(state_backend): enhance event-time watermark alignment [Sprint 2016.W48]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
