@@ -361,3 +361,6 @@
 [2016-12-10 00:03] refactor(sliding_window): calibrate cluster heartbeat gossip protocol [Sprint 2016.W49]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-12-12 03:17] test(stream_operator): calibrate cluster heartbeat gossip protocol [Sprint 2016.W50]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
