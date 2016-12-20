@@ -370,3 +370,6 @@
 [2016-12-16 04:42] fix(tokio_mesh): introduce Chandy-Lamport snapshot barrier [Sprint 2016.W50]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2016-12-20 08:19] docs(chandy_lamport): implement Raft election timeout randomization [Sprint 2016.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
