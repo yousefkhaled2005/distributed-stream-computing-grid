@@ -1,0 +1,4 @@
+[2017-01-11 11:26] feat(tokio_mesh): introduce Chandy-Lamport snapshot barrier in release cycle 2017.Q1
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-stream-computing-grid
+
