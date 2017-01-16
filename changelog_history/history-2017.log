@@ -34,3 +34,6 @@
 [2017-01-13 23:22] perf(sliding_window): optimize backpressure credit flow control [Sprint 2017.W2]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-01-16 02:42] feat(tokio_mesh): reduce state recovery duration after node crash [Sprint 2017.W3]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
