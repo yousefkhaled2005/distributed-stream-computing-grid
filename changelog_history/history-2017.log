@@ -43,3 +43,6 @@
 [2017-01-20 04:26] refactor(scala_dag): optimize backpressure credit flow control [Sprint 2017.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-01-24 05:52] feat(scala_dag): implement RocksDB incremental checkpointing [Sprint 2017.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
