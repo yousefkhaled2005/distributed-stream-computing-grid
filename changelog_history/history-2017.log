@@ -49,3 +49,6 @@
 [2017-01-28 09:02] feat(state_backend): reduce state recovery duration after node crash [Sprint 2017.W4]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-02-01 10:34] feat(chandy_lamport): reduce state recovery duration after node crash [Sprint 2017.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
