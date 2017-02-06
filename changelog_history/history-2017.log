@@ -55,3 +55,6 @@
 [2017-02-03 11:38] perf(rust_shuffle): implement Raft election timeout randomization [Sprint 2017.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-02-06 14:06] perf(scala_dag): calibrate cluster heartbeat gossip protocol [Sprint 2017.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
