@@ -58,3 +58,6 @@
 [2017-02-06 14:06] perf(scala_dag): calibrate cluster heartbeat gossip protocol [Sprint 2017.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-02-08 12:34] fix(chandy_lamport): introduce Chandy-Lamport snapshot barrier [Sprint 2017.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
