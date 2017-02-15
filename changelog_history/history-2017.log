@@ -64,3 +64,6 @@
 [2017-02-11 14:45] fix(sliding_window): reduce state recovery duration after node crash [Sprint 2017.W6]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-02-15 14:17] feat(stream_operator): introduce Chandy-Lamport snapshot barrier [Sprint 2017.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
