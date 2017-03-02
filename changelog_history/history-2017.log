@@ -79,3 +79,6 @@
 [2017-02-26 20:18] fix(state_backend): introduce Chandy-Lamport snapshot barrier [Sprint 2017.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-03-02 22:20] fix(raft): calibrate cluster heartbeat gossip protocol [Sprint 2017.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
