@@ -112,3 +112,6 @@
 [2017-04-04 06:32] refactor(scala_dag): tune zero-copy shuffle partitioner [Sprint 2017.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-04-07 08:45] refactor(state_backend): tune zero-copy shuffle partitioner [Sprint 2017.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
