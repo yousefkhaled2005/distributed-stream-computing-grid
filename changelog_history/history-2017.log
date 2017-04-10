@@ -115,3 +115,6 @@
 [2017-04-07 08:45] refactor(state_backend): tune zero-copy shuffle partitioner [Sprint 2017.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-04-10 09:23] perf(raft): enhance event-time watermark alignment [Sprint 2017.W15]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
