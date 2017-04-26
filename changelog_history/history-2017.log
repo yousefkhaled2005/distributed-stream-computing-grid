@@ -127,3 +127,6 @@
 [2017-04-22 15:03] docs(scala_dag): enhance event-time watermark alignment [Sprint 2017.W16]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-04-26 18:48] perf(stream_operator): implement RocksDB incremental checkpointing [Sprint 2017.W17]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
