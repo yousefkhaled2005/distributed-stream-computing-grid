@@ -133,3 +133,6 @@
 [2017-04-30 19:31] docs(raft): implement RocksDB incremental checkpointing [Sprint 2017.W17]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-05-02 21:50] docs(rust_shuffle): introduce Chandy-Lamport snapshot barrier [Sprint 2017.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
