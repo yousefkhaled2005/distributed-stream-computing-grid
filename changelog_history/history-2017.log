@@ -136,3 +136,6 @@
 [2017-05-02 21:50] docs(rust_shuffle): introduce Chandy-Lamport snapshot barrier [Sprint 2017.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-05-06 21:40] docs(sliding_window): enhance event-time watermark alignment [Sprint 2017.W18]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
