@@ -1,0 +1,12 @@
+[package]
+name = "shuffle-worker"
+version = "0.4.0"
+edition = "2021"
+authors = ["Yousef Khaled <youssef460249@beng.bu.edu.eg>"]
+description = "High-performance zero-copy network shuffle service for distributed stream computing grid"
+
+[dependencies]
+tokio = { version = "1.35", features = ["full"] }
+bytes = "1.5"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
