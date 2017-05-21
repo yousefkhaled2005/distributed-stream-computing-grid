@@ -148,3 +148,6 @@
 [2017-05-17 21:50] feat(rust_shuffle): enhance event-time watermark alignment [Sprint 2017.W20]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-05-22 00:17] feat(state_backend): calibrate cluster heartbeat gossip protocol [Sprint 2017.W21]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
