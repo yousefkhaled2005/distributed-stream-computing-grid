@@ -169,3 +169,6 @@
 [2017-06-09 06:29] test(raft): tune zero-copy shuffle partitioner [Sprint 2017.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-06-13 09:04] fix(scala_dag): optimize backpressure credit flow control [Sprint 2017.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
