@@ -190,3 +190,6 @@
 [2017-07-03 20:47] test(rust_shuffle): tune zero-copy shuffle partitioner [Sprint 2017.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-07-05 21:03] perf(rust_shuffle): implement RocksDB incremental checkpointing [Sprint 2017.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
