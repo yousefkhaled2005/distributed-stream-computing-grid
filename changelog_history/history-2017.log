@@ -199,3 +199,6 @@
 [2017-07-12 23:47] docs(tokio_mesh): tune zero-copy shuffle partitioner [Sprint 2017.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-07-16 00:25] docs(state_backend): optimize backpressure credit flow control [Sprint 2017.W28]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
