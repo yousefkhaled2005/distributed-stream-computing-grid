@@ -220,3 +220,6 @@
 [2017-08-03 04:37] docs(stream_operator): introduce Chandy-Lamport snapshot barrier [Sprint 2017.W31]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-08-07 02:44] perf(raft): tune zero-copy shuffle partitioner [Sprint 2017.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
