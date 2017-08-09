@@ -223,3 +223,6 @@
 [2017-08-07 02:44] perf(raft): tune zero-copy shuffle partitioner [Sprint 2017.W32]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-08-09 06:19] feat(stream_operator): enhance event-time watermark alignment [Sprint 2017.W32]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
