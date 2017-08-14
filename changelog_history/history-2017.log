@@ -229,3 +229,6 @@
 [2017-08-11 04:40] test(rust_shuffle): reduce state recovery duration after node crash [Sprint 2017.W32]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-08-14 06:41] docs(rust_shuffle): optimize backpressure credit flow control [Sprint 2017.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
