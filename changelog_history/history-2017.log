@@ -235,3 +235,6 @@
 [2017-08-16 05:58] docs(chandy_lamport): calibrate cluster heartbeat gossip protocol [Sprint 2017.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-08-20 06:45] docs(stream_operator): reduce state recovery duration after node crash [Sprint 2017.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
