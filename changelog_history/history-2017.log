@@ -238,3 +238,6 @@
 [2017-08-20 06:45] docs(stream_operator): reduce state recovery duration after node crash [Sprint 2017.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-08-22 05:22] perf(state_backend): implement Raft election timeout randomization [Sprint 2017.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
