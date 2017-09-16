@@ -262,3 +262,6 @@
 [2017-09-12 12:58] fix(scala_dag): enhance event-time watermark alignment [Sprint 2017.W37]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-09-16 15:00] fix(scala_dag): tune zero-copy shuffle partitioner [Sprint 2017.W37]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
