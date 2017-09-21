@@ -14,3 +14,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-stream-computing-grid
 
+[2017-09-21 11:11] perf(stream_operator): introduce Chandy-Lamport snapshot barrier in release cycle 2017.Q3
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-stream-computing-grid
+
