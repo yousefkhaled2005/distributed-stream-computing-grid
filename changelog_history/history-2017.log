@@ -268,3 +268,6 @@
 [2017-09-19 13:17] perf(sliding_window): enhance event-time watermark alignment [Sprint 2017.W38]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-09-23 13:39] test(stream_operator): calibrate cluster heartbeat gossip protocol [Sprint 2017.W38]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
