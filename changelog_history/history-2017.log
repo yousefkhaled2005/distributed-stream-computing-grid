@@ -316,3 +316,6 @@
 [2017-11-11 09:48] docs(stream_operator): implement RocksDB incremental checkpointing [Sprint 2017.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-11-13 08:13] feat(scala_dag): calibrate cluster heartbeat gossip protocol [Sprint 2017.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
