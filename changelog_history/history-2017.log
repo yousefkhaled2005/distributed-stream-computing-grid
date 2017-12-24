@@ -355,3 +355,6 @@
 [2017-12-21 04:16] feat(scala_dag): implement Raft election timeout randomization [Sprint 2017.W51]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2017-12-24 04:48] feat(stream_operator): reduce state recovery duration after node crash [Sprint 2017.W51]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
