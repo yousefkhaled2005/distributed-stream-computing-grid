@@ -1,0 +1,4 @@
+[2018-01-17 17:36] feat(chandy_lamport): calibrate carrier call-drop telemetry in release cycle 2018.Q1
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-stream-computing-grid
+
