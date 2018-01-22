@@ -37,3 +37,6 @@
 [2018-01-20 20:00] refactor(stream_operator): reduce state recovery duration after node crash [Sprint 2018.W3]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-01-22 23:31] feat(rust_shuffle): reduce state recovery duration after node crash [Sprint 2018.W4]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
