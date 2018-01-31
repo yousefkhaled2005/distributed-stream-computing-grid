@@ -46,3 +46,6 @@
 [2018-01-29 02:06] docs(rust_shuffle): tune zero-copy shuffle partitioner [Sprint 2018.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-01-31 04:50] perf(scala_dag): enhance event-time watermark alignment [Sprint 2018.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
