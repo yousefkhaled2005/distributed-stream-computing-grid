@@ -49,3 +49,6 @@
 [2018-01-31 04:50] perf(scala_dag): enhance event-time watermark alignment [Sprint 2018.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-02-03 05:58] docs(rust_shuffle): implement Raft election timeout randomization [Sprint 2018.W5]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
