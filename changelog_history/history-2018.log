@@ -52,3 +52,6 @@
 [2018-02-03 05:58] docs(rust_shuffle): implement Raft election timeout randomization [Sprint 2018.W5]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-02-07 08:08] docs(raft): reduce state recovery duration after node crash [Sprint 2018.W6]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
