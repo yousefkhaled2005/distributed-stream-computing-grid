@@ -61,3 +61,6 @@
 [2018-02-13 04:49] test(rust_shuffle): reduce state recovery duration after node crash [Sprint 2018.W7]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-02-17 03:13] refactor(rust_shuffle): introduce Chandy-Lamport snapshot barrier [Sprint 2018.W7]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
