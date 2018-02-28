@@ -73,3 +73,6 @@
 [2018-02-25 03:30] refactor(raft): calibrate cluster heartbeat gossip protocol [Sprint 2018.W8]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-02-28 05:11] feat(scala_dag): tune zero-copy shuffle partitioner [Sprint 2018.W9]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
