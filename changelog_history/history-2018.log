@@ -82,3 +82,6 @@
 [2018-03-06 05:01] refactor(raft): reduce state recovery duration after node crash [Sprint 2018.W10]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-03-10 03:28] feat(state_backend): introduce Chandy-Lamport snapshot barrier [Sprint 2018.W10]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
