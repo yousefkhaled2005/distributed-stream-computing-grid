@@ -91,3 +91,6 @@
 [2018-03-16 08:07] feat(sliding_window): introduce Chandy-Lamport snapshot barrier [Sprint 2018.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-03-18 09:25] refactor(scala_dag): implement RocksDB incremental checkpointing [Sprint 2018.W11]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
