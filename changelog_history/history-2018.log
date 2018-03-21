@@ -94,3 +94,6 @@
 [2018-03-18 09:25] refactor(scala_dag): implement RocksDB incremental checkpointing [Sprint 2018.W11]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-03-21 09:35] refactor(tokio_mesh): implement Raft election timeout randomization [Sprint 2018.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
