@@ -97,3 +97,6 @@
 [2018-03-21 09:35] refactor(tokio_mesh): implement Raft election timeout randomization [Sprint 2018.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-03-24 09:51] refactor(raft): reduce state recovery duration after node crash [Sprint 2018.W12]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
