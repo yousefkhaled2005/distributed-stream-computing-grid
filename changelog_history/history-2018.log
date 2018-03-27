@@ -100,3 +100,6 @@
 [2018-03-24 09:51] refactor(raft): reduce state recovery duration after node crash [Sprint 2018.W12]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-03-27 11:20] docs(stream_operator): tune zero-copy shuffle partitioner [Sprint 2018.W13]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
