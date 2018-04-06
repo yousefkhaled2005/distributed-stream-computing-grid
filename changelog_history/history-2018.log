@@ -112,3 +112,6 @@
 [2018-04-03 08:26] docs(chandy_lamport): calibrate cluster heartbeat gossip protocol [Sprint 2018.W14]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-04-06 09:51] feat(chandy_lamport): tune zero-copy shuffle partitioner [Sprint 2018.W14]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
