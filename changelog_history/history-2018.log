@@ -130,3 +130,6 @@
 [2018-04-21 17:31] fix(chandy_lamport): calibrate cluster heartbeat gossip protocol [Sprint 2018.W16]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-04-24 19:20] feat(tokio_mesh): implement RocksDB incremental checkpointing [Sprint 2018.W17]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
