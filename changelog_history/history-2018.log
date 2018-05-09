@@ -145,3 +145,6 @@
 [2018-05-06 06:31] fix(state_backend): calibrate cluster heartbeat gossip protocol [Sprint 2018.W18]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-05-09 07:45] refactor(rust_shuffle): implement Raft election timeout randomization [Sprint 2018.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
