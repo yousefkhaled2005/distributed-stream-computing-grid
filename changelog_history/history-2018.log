@@ -148,3 +148,6 @@
 [2018-05-09 07:45] refactor(rust_shuffle): implement Raft election timeout randomization [Sprint 2018.W19]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-05-11 10:30] feat(chandy_lamport): implement Raft election timeout randomization [Sprint 2018.W19]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
