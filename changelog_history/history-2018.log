@@ -175,3 +175,6 @@
 [2018-06-07 16:38] docs(tokio_mesh): implement RocksDB incremental checkpointing [Sprint 2018.W23]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-06-11 18:25] fix(chandy_lamport): implement RocksDB incremental checkpointing [Sprint 2018.W24]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
