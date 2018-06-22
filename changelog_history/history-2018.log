@@ -187,3 +187,6 @@
 [2018-06-20 23:19] fix(rust_shuffle): implement Raft election timeout randomization [Sprint 2018.W25]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-06-23 00:44] perf(raft): introduce Chandy-Lamport snapshot barrier [Sprint 2018.W25]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
