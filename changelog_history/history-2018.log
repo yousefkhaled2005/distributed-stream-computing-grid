@@ -193,3 +193,6 @@
 [2018-06-25 00:49] test(state_backend): reduce state recovery duration after node crash [Sprint 2018.W26]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-06-27 03:30] perf(state_backend): tune zero-copy shuffle partitioner [Sprint 2018.W26]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
