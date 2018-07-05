@@ -202,3 +202,6 @@
 [2018-07-03 02:28] feat(rust_shuffle): calibrate cluster heartbeat gossip protocol [Sprint 2018.W27]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-07-06 01:30] docs(raft): calibrate cluster heartbeat gossip protocol [Sprint 2018.W27]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
