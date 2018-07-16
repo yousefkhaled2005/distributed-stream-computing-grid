@@ -211,3 +211,6 @@
 [2018-07-13 05:40] feat(state_backend): implement Raft election timeout randomization [Sprint 2018.W28]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-07-16 05:27] fix(raft): implement RocksDB incremental checkpointing [Sprint 2018.W29]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
