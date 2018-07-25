@@ -10,3 +10,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-stream-computing-grid
 
+[2018-07-25 17:47] docs(rust_shuffle): add AVX SIMD vectorization pass in release cycle 2018.Q3
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-stream-computing-grid
+
