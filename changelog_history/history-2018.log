@@ -223,3 +223,6 @@
 [2018-07-26 10:23] feat(sliding_window): tune zero-copy shuffle partitioner [Sprint 2018.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-07-29 08:41] refactor(tokio_mesh): enhance event-time watermark alignment [Sprint 2018.W30]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
