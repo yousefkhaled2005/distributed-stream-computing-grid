@@ -226,3 +226,6 @@
 [2018-07-29 08:41] refactor(tokio_mesh): enhance event-time watermark alignment [Sprint 2018.W30]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-08-01 06:47] fix(tokio_mesh): implement Raft election timeout randomization [Sprint 2018.W31]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
