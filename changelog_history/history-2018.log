@@ -241,3 +241,6 @@
 [2018-08-16 08:28] refactor(tokio_mesh): optimize backpressure credit flow control [Sprint 2018.W33]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-08-18 09:53] test(sliding_window): enhance event-time watermark alignment [Sprint 2018.W33]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
