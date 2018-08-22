@@ -247,3 +247,6 @@
 [2018-08-20 10:08] docs(raft): reduce state recovery duration after node crash [Sprint 2018.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-08-22 11:35] refactor(tokio_mesh): reduce state recovery duration after node crash [Sprint 2018.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
