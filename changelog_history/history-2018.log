@@ -250,3 +250,6 @@
 [2018-08-22 11:35] refactor(tokio_mesh): reduce state recovery duration after node crash [Sprint 2018.W34]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-08-25 13:15] perf(rust_shuffle): enhance event-time watermark alignment [Sprint 2018.W34]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
