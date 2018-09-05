@@ -259,3 +259,6 @@
 [2018-09-01 16:48] perf(rust_shuffle): implement Raft election timeout randomization [Sprint 2018.W35]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-09-05 19:55] refactor(state_backend): tune zero-copy shuffle partitioner [Sprint 2018.W36]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
