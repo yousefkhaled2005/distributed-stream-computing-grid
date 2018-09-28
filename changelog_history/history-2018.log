@@ -277,3 +277,6 @@
 [2018-09-24 03:04] feat(scala_dag): introduce Chandy-Lamport snapshot barrier [Sprint 2018.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-09-28 06:38] docs(stream_operator): introduce Chandy-Lamport snapshot barrier [Sprint 2018.W39]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
