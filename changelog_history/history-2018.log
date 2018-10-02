@@ -283,3 +283,6 @@
 [2018-09-30 08:19] refactor(sliding_window): optimize backpressure credit flow control [Sprint 2018.W39]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-10-02 07:51] fix(stream_operator): reduce state recovery duration after node crash [Sprint 2018.W40]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
