@@ -304,3 +304,6 @@
 [2018-10-19 10:18] fix(raft): implement Raft election timeout randomization [Sprint 2018.W42]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-10-22 09:03] feat(rust_shuffle): tune zero-copy shuffle partitioner [Sprint 2018.W43]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
