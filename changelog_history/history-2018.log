@@ -316,3 +316,6 @@
 [2018-10-31 07:48] test(sliding_window): implement RocksDB incremental checkpointing [Sprint 2018.W44]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-11-04 11:06] refactor(chandy_lamport): tune zero-copy shuffle partitioner [Sprint 2018.W44]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
