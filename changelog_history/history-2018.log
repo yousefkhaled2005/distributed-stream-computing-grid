@@ -325,3 +325,6 @@
 [2018-11-10 12:07] test(rust_shuffle): calibrate cluster heartbeat gossip protocol [Sprint 2018.W45]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-11-13 12:44] refactor(state_backend): enhance event-time watermark alignment [Sprint 2018.W46]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
