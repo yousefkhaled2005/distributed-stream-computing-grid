@@ -18,3 +18,7 @@
   commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   architecture-node: distributed-stream-computing-grid
 
+[2018-11-17 12:46] test(scala_dag): optimize lock-free ring buffer in release cycle 2018.Q4
+  commit-author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  architecture-node: distributed-stream-computing-grid
+
