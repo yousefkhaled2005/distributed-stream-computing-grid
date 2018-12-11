@@ -355,3 +355,6 @@
 [2018-12-08 03:24] test(raft): implement RocksDB incremental checkpointing [Sprint 2018.W49]
   author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
   system: distributed-stream-computing-grid
+[2018-12-11 05:49] test(sliding_window): calibrate cluster heartbeat gossip protocol [Sprint 2018.W50]
+  author: Yousef Khaled <youssef460249@beng.bu.edu.eg>
+  system: distributed-stream-computing-grid
